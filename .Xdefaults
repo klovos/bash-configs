@@ -1,0 +1,4 @@
+xterm*reverseVideo: true
+xterm*faceName: Monospace
+xterm*faceSizeL: 12
+xterm*borderWidth: 0

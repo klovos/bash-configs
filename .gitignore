@@ -2,3 +2,4 @@
 !.gitignore
 !.config/i3/config
 !.vimrc
+!.Xdefaults
